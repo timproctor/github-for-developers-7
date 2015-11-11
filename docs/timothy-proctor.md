@@ -4,5 +4,5 @@ I like Taco Bell
  > - Double Decker
  > - Large Mountain Dew
 
-**Favorite Color** 
+**Favorite Color**
 Blue!
